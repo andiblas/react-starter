@@ -1,0 +1,20 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "Pruebas para empezar a conocer React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andiblas/react-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andiblas/react-starter/issues"
+  },
+  "homepage": "https://github.com/andiblas/react-starter#readme"
+}
